@@ -1,0 +1,12 @@
+Game on!
+Game# 1. Play Sequence: 3-2-1-2-3-3-2-1-. Winner: P1
+Game# 2. Play Sequence: 3-1-2-2-2-2-3-1-1-. Winner: P2
+Game# 3. Play Sequence: 2-3-1-3-3-3-2-. Winner: P2
+Game# 4. Play Sequence: 1-2-2-2-2-3-3-1-1-. Winner: P2
+Game# 5. Play Sequence: 3-2-2-3-1-2-2-1-1-. Winner: P2
+Game# 6. Play Sequence: 3-1-2-3-2-3-1-1-1-. Winner: P2
+Game# 7. Play Sequence: 1-2-1-1-1-3-2-3-1-1-1-. Winner: P2
+Game# 8. Play Sequence: 2-1-1-1-1-3-1-2-2-1-1-1-. Winner: P1
+Game# 9. Play Sequence: 1-2-2-1-1-1-1-3-3-1-1-. Winner: P2
+Game# 10. Play Sequence: 1-3-2-1-3-3-2-1-1-. Winner: P2
+Player 1 won 2times; Player 2 won 8 times.
